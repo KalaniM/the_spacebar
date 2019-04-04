@@ -34,6 +34,7 @@
                 'I like bacon too! Buy some from my site! bakinsomebacon.com',
             ];
             
+            
             return $this->render('article/show.html.twig', [
                 'title' => ucwords(str_replace('-', ' ', $slug)),
                 'comments' => $comments
