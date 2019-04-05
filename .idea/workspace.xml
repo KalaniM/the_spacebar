@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c6468df-b549-40d2-abd8-889c9a829322" name="Default Changelist" comment="" />
+    <list default="true" id="9c6468df-b549-40d2-abd8-889c9a829322" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/the_spacebar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/the_spacebar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +54,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="269" />
-          <entry key="php" value="974" />
+          <entry key="php" value="1075" />
           <entry key="twig" value="898" />
           <entry key="yaml" value="26" />
         </counts>
@@ -54,7 +62,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="269" />
-          <entry key="PHP" value="974" />
+          <entry key="PHP" value="1075" />
           <entry key="Twig" value="898" />
           <entry key="YAML" value="26" />
         </counts>
@@ -71,12 +79,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="461">
+              <caret line="59" column="52" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
               <folding>
                 <element signature="e#170#198#0#PHP" expanded="true" />
                 <element signature="e#559#587#1#PHP" expanded="true" />
-                <element signature="e#1128#1152#0#PHP" expanded="true" />
+                <element signature="e#1115#1139#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,6 +212,8 @@
       <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
       <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-markdown-bundle" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -295,12 +305,12 @@
       <workItem from="1554389454861" duration="4947000" />
       <workItem from="1554399109385" duration="188000" />
       <workItem from="1554399373090" duration="3321000" />
-      <workItem from="1554468264604" duration="4139000" />
+      <workItem from="1554468264604" duration="4382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12933000" />
+    <option name="totallyTimeSpent" value="13176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="955" extended-state="6" />
@@ -396,12 +406,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="461">
+          <caret line="59" column="52" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
           <folding>
             <element signature="e#170#198#0#PHP" expanded="true" />
             <element signature="e#559#587#1#PHP" expanded="true" />
-            <element signature="e#1128#1152#0#PHP" expanded="true" />
+            <element signature="e#1115#1139#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
